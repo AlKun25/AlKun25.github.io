@@ -1,6 +1,5 @@
 +++
 date = '2024-10-19T01:14:52-07:00'
-draft = true
 title = 'The Rise of Deep Reinforcement Learning in Robotics'
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2024-10-19T01:22:22-07:00'
-draft = true
 title = 'Datasets and Simulators for Robot Learning'
 +++
 ## I. Introduction
