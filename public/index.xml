@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Robotic Learning Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Robotic Learning Blog</description>
+    <generator>Hugo -- 0.136.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Oct 2024 01:22:22 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datasets and Simulators for Robot Learning</title>
+      <link>http://localhost:1313/posts/datasets_simulators/</link>
+      <pubDate>Sat, 19 Oct 2024 01:22:22 -0700</pubDate>
+      <guid>http://localhost:1313/posts/datasets_simulators/</guid>
+      <description>&lt;h2 id=&#34;i-introduction&#34;&gt;I. Introduction&lt;/h2&gt;
+&lt;p&gt;In the rapidly evolving field of robotics, the role of data and simulation has become paramount. With the increasing complexity of robotic systems, the need for efficient data collection and simulation techniques has grown exponentially. Data serves as the foundation upon which learning algorithms are built, while simulation environments provide safe and controlled settings for these algorithms to be tested and refined. Together, they accelerate research and development, making shared resources invaluable in the quest for advanced robotic capabilities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Rise of Deep Reinforcement Learning in Robotics</title>
+      <link>http://localhost:1313/posts/rise_rl_robotics/</link>
+      <pubDate>Sat, 19 Oct 2024 01:14:52 -0700</pubDate>
+      <guid>http://localhost:1313/posts/rise_rl_robotics/</guid>
+      <description>&lt;h2 id=&#34;i-introduction&#34;&gt;I. Introduction&lt;/h2&gt;
+&lt;p&gt;Reinforcement learning (RL) has been a staple of the robotics field for decades, but recent advancements in deep learning have catapulted its potential to new heights. The emergence of &lt;strong&gt;deep reinforcement learning&lt;/strong&gt; has opened up a world of possibilities for autonomous robots, enabling them to learn complex behaviors and adapt to dynamic environments. In this article, we will delve into the key concepts behind deep RL and explore some of the most groundbreaking results achieved in recent years.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helloworld</title>
+      <link>http://localhost:1313/posts/helloworld/</link>
+      <pubDate>Sat, 19 Oct 2024 00:56:18 -0700</pubDate>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <description>&lt;p&gt;This is a &lt;em&gt;test&lt;/em&gt; file with &lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-nd-heading&#34;&gt;2 nd heading&lt;/h2&gt;
+&lt;h3 id=&#34;3rd-heading&#34;&gt;3rd heading&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
